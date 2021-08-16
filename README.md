@@ -1,1 +1,1 @@
-# 5.Curso_ECMAScript_6
+# 6.Curso_ECMAScript_6
